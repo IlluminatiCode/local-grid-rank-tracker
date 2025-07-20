@@ -1,7 +1,1 @@
-feat: Implement UI/UX improvements and add loading spinner
-
-- Restructured HTML for a two-column layout.
-- Applied modern CSS styling for a polished look.
-- Added a loading spinner to the 'Generate Grid' button.
-- Improved results display formatting.
-- Ensured all previous functional changes (API key, throttling, marker colors) are included.
+Initial project setup with core functionality and UI improvements.
