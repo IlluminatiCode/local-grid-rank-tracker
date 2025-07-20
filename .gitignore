@@ -1,3 +1,4 @@
 node_modules
 .env
 commit_message.txt
+temp_commit_message.txt
